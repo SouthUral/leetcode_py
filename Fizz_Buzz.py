@@ -16,8 +16,3 @@ class Solution:
             else:
                 res_arr.append(str(i))
         return res_arr
-            
-
-t1 = 15
-obj = Solution()
-print(obj.fizzBuzz(15))
