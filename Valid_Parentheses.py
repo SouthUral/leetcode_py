@@ -91,5 +91,3 @@ def test_steck():
 
 test_steck()
 test_solution()
-
-            
